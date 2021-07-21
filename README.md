@@ -1,3 +1,3 @@
 # Basic_Calculator_Website
 
-It is a iOS Style basic calculator
+It is an iOS Style basic calculator
